@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MaterialSnackBar</string>
+    <string name="show_snackbar">Show SnackBar</string>
+</resources>
